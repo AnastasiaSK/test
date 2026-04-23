@@ -16,7 +16,7 @@ const count = ref(0);
     </div>
     <div>
       <h1>Get started</h1>
-      Привет!
+      <p>Привет, группа PM34-onl!</p>
     </div>
     <button type="button" class="counter" @click="count++">
       Count is {{ count }}
